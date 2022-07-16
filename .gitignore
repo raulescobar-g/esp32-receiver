@@ -1,0 +1,6 @@
+/target
+.env
+Makefile
+.vscode
+Rocket.toml
+database
