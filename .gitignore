@@ -4,3 +4,5 @@ Makefile
 .vscode
 Rocket.toml
 database
+ca-certificate.crt
+test.http
