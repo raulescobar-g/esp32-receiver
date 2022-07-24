@@ -3,5 +3,4 @@
 Makefile
 .vscode
 database
-ca-certificate.crt
 test.http
